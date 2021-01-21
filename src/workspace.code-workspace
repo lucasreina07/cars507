@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\udemy"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\rentcars"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "udemy"
+	}
+}
